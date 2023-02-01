@@ -1,4 +1,4 @@
-## Beer Review Project
+## Beer Review Project - WIP
 
 ### Data Science @FESB
 
@@ -7,6 +7,8 @@
 - [Steps](#steps)
 
 #### Intro<a id="intro"></a>
+
+Authors: Dea Čelan, Sara Ćurak, Dino Zoričić
 
 Project on intro to data science on FESB.
 Project is about analyzing beer review dataframe from kaggle in python.
